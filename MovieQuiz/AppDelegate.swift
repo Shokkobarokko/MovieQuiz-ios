@@ -6,7 +6,8 @@ final class AppDelegate: UIResponder, UIApplicationDelegate {
         _ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
-        print("Hello World")
+        print("проверка проверка проверка проверка")
+        print("He he he he he")
         return true
     }
 
