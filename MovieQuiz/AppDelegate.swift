@@ -8,6 +8,7 @@ final class AppDelegate: UIResponder, UIApplicationDelegate {
     ) -> Bool {
         print("проверка проверка проверка проверка")
         print("He he he he he")
+        print("HEeeeeeeeeeeeee")
         return true
     }
 
